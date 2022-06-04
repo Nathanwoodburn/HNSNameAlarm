@@ -7,5 +7,7 @@ Then it will pull the current block from https://api.handshakeapi.com/hsd and wi
 
 All settings are in AppData/Loacal/HNSAlarm
 
+To run either build in Visual studio or run setup.exe from the zip file.
+
 ![image](https://user-images.githubusercontent.com/62039630/171986180-cd942d62-81eb-48a1-9fd3-864e5a230047.png)
 ![image](https://user-images.githubusercontent.com/62039630/171986182-3685a11b-8f1e-4791-82b1-8a1e15391685.png)
