@@ -1,4 +1,4 @@
-# HNSNameAlarm
+# HNS Name Alarm
 
 Only Works on Windows
 
