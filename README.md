@@ -1,3 +1,6 @@
+#OLD Version please see https://github.com/Nathanwoodburn/HNS-Alarm
+
+
 # HNS Name Alarm
 
 Only Works on Windows
